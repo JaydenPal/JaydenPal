@@ -2,7 +2,7 @@
 
 I am a cybersecurity enthusiast trying to devleop my skills in Reverse Engineering,
 malware analysis, Digital Forensics / incident response. My skills have been 
-devloped via courses at the Univeristy of Texas at San Antonio and CTF settings.
+developed via courses at the Univeristy of Texas at San Antonio and CTF settings.
 
 Need someone to look at an executable or binary? Let me know. I've been reading 
 so much machine/assembly code lately that I read bytes in my dreams. 
